@@ -1,7 +1,7 @@
 {
   "AdsController": {
     "adNetwork": "admob",
-    "unityGameId": "5467489",
+    "unityGameId": "99999999",
     "testMode": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
@@ -10,7 +10,6 @@
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "applovinBanner": "",
     "applovinInterstitial": "",
-
 
     "modeads": false,
     "IMG1_URL": "https://c37.netlify.app/c37-4.png",
